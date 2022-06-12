@@ -13,7 +13,7 @@ About me:
 - I play Minecraft
 
 Favorite Projects I've made:
-- Localization Translation Utility can translate localization files automatically with Google Translate
+- [Localization Translation Utility](https://github.com/CoolCat467/Localization-Translation-Utility) can translate localization files automatically with Google Translate
 - [StatusBot](https://github.com/CoolCat467/StatusBot) is a discord bot for a server a friend of mine hosts
 - [lintcheck](https://github.com/CoolCat467/lintcheck) is a IDLE extension for using pylint on your code
 - [fix-lwjgl](https://github.com/CoolCat467/fix-lwjgl) can make Minecraft Java Edition work for Raspberry Pis
