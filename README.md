@@ -3,6 +3,7 @@
 I am a programmer in:
 - Python 3
 - Javascript
+- Java
 - Learning C
 
 About me:
