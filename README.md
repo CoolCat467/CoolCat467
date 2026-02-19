@@ -6,7 +6,7 @@ I am a programmer in:
 - Java
 - Learning C
 
-![CoolCat467's Github Stats](https://github-readme-stats.vercel.app/api?username=CoolCat467&show_icons=true&bg_color=00000000&show=reviews)
+<!--![CoolCat467's Github Stats](https://github-readme-stats.vercel.app/api?username=CoolCat467&show_icons=true&bg_color=00000000&show=reviews)-->
 
 About me:
 - I like learning about new things
